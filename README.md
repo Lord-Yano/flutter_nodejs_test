@@ -10,8 +10,6 @@
 - run "dart pub get" to install dependencies
 - run "flutter run" to start flutter application
 
-- # Server url : localhost
-
 # Project Structure
 
 1. Back-end  : Server created using MEN (Mongo DB, Express and Node JS)
